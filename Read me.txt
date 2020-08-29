@@ -3,7 +3,7 @@ Component list:
 2) Yellow Led-------------1 pice
 3) Green Led------------1 pice
 4) resistor (330ohm or 1k)-------------3 pices
-5) breadboard---------------------------1 pices
+5) breadboard---------------------------1 pice
 6) Arduino UNO or Nano------------------- 1pice
 7) some jumper wire
 8) 9 volt battery--------------------------1 pice
